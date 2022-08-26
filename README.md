@@ -6,11 +6,11 @@ An API for a social network web application where users can share their thoughts
 As a social media startup, I want an API for my social network that uses a NoSQL database so that my website can handle large amounts of unstructured data
 
 ## Walkthrough Video
-<<<<<<< HEAD
-# 25.08.2022_18.57.26_REC.mp4
-=======
+# 
 
->>>>>>> ba03579aa40d5263ea63ac3613418a793e66141e
+https://user-images.githubusercontent.com/101309301/186800659-d3754957-2555-4330-bdf0-3e72a30ab62a.mp4
+
+
 
 The walkthrough demonstrates the GET, POST, PUT, and DELETE methods for users and thoughts, as well as the POST and DELETE methods for thought reactions and friend lists.
 
